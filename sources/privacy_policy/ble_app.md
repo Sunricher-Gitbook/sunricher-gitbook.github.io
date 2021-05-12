@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+---
+
 ## Privacy Policy
 
 Gongfei built this App as a Free App. This SERVICE is provided by Gongfei at no cost and is intended for use as is.

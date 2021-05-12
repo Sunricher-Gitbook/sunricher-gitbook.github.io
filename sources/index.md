@@ -1,3 +1,6 @@
-# Index
+---
+title: Index
+---
 
 Hello, World!
+

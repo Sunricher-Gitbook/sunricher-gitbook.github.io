@@ -1,3 +1,7 @@
+---
+title: Documents
+---
+
 ### Project documents
 
 - [CiTRON](https://maginawin.gitbook.io/citron-ble/)
