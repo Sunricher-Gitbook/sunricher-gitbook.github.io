@@ -10,7 +10,7 @@ title: Documents
 
 ### Privacy policy
 
-- [Sensor Tools](https://sunricher-gitbook.github.io/privacy_policy/ble_app)
-- [CiTRON Tool](https://sunricher-gitbook.github.io/privacy_policy/ble_app)
-- [EasyThings](https://sunricher-gitbook.github.io/privacy_policy/easythings)
+- [Sensor Tools](https://dev.smartcodecloud.com/privacy_policy/ble_app)
+- [CiTRON Tool](https://dev.smartcodecloud.com/privacy_policy/ble_app)
+- [EasyThings](https://dev.smartcodecloud.com/privacy_policy/easythings)
 
