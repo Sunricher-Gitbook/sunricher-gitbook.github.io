@@ -5,6 +5,7 @@ title: Documents
 ### Project documents
 
 - [CiTRON](https://maginawin.gitbook.io/citron-ble/)
+- [CiTRON Tool](https://maginawin.gitbook.io/citron-tool/)
 - [Sensor Tools](https://maginawin.gitbook.io/smartsensortools/)
 - [EasyThings](https://maginawin.gitbook.io/easythings/)
 
