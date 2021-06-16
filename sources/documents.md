@@ -8,6 +8,7 @@ title: Documents
 - [CiTRON Tool](https://maginawin.gitbook.io/citron-tool/)
 - [Sensor Tools](https://maginawin.gitbook.io/smartsensortools/)
 - [EasyThings](https://maginawin.gitbook.io/easythings/)
+- [Tuya projects](https://maginawin.gitbook.io/tuya/)
 
 ### Privacy policy
 
