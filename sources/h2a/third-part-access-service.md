@@ -2,11 +2,11 @@
 title: Third-party Access Service
 ---
 
-## Third-part Access Service
+## Third-party Access Service
 
 ### Amazon Alexa
 
-Coming soon...
+Search with the keyword `h2a` in the Alexa App - Skills & Games.
 
 ### Google Home
 
@@ -14,6 +14,5 @@ Coming soon...
 
 ### Contact Us
 
-If you have any questions or suggestions, do not hesitate to contact me at maginawin@163.com.
-
+If you have any questions or suggestions, do not hesitate to contact me at kelliescott2255@gmail.com.
 
