@@ -1,7 +1,8 @@
 <!doctype html>
 <html>
 <head>
-
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width initial-scale=1'>
 </head>
 <body>
 <script>
@@ -11,12 +12,18 @@
   function toDownload () {
     let u = navigator.userAgent
     let ua = u.toLowerCase()
+
+    if (ua.match(/MicroMessenger/i) == 'micromessenger') {
+      document.write('<p><strong><span>Please open this page using your phone browser.</span></strong></p>')
+      return
+    }
+
     if (/iphone|ipad|ipod/.test(ua)) {
       window.location.href = 'https://apps.apple.com/gb/app/h2a-smarthome/id1576485082'
     } else if (/android/.test(ua)) {
       window.location.href = 'https://play.google.com/store/apps/details?id=com.sunricher.easythings.h2a'
     } else {
-      window.location.href = 'https://dev.smartcodecloud.com/h2a/apps'
+      window.location.href = 'https://dev.smartcodecloud.com/h2a/apps.html'
     }
   }
 </script>
