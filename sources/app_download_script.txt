@@ -1,0 +1,14 @@
+<script>
+toDownload();
+function toDownload() {
+  let u = navigator.userAgent;
+  let ua = u.toLowerCase();
+  if (/iphone|ipad|ipod/.test(ua)) {
+    window.location.href = 'https://apps.apple.com/gb/app/h2a-smarthome/id1576485082';
+  } else if (/android/.test(ua)) {
+    window.location.href = 'https://play.google.com/store/apps/details?id=com.sunricher.easythings.h2a';
+  } else {
+
+  }
+}
+</script>
