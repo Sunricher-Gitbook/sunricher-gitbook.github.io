@@ -6,6 +6,8 @@ title: Help
 
 ### Gateway requirements
 
+__If you don't use gateway feature, ignore these requirements.__
+
 #### Select local network
 
 - Turn on the network and Bluetooth.
@@ -25,3 +27,4 @@ Sync Mac address of cloud devices to local network, then you can discover the de
 ### Duplicate devices in different networks
 
 Each gateway has its own network ID, and the cloud distinguish the gateways via the network ID, but different gateways may control the same device.
+
