@@ -1,4 +1,8 @@
-# Service Agreement of EasyThings Pro
+---
+title: Service Agreement
+---
+
+## Service Agreement of EasyThings Pro
 
 Welcome to EasyThings Pro!
 
